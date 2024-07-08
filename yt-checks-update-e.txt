@@ -4,5 +4,5 @@ Version 28. Changelog:
 >Added Dislike Button
 >Added Download Settings
 >Added SponsorBlock Settings
->Base Update 17.04.37
+>Base Update 17.04.38
 >Bugs Fixed
